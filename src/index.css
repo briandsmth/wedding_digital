@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn {
+  margin: .5rem;
+  padding: .7rem 1.5rem;
+  font-size: .8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  border-radius: 25px;
+  border: none;
+  background: rgba(255, 255, 255, .1);
+  width: 40%;
+  color: #f6f6f6;
+  cursor: pointer;
+}
+
+.btn-dark {
+  background: rgba(0, 0, 0, .5);
+}
